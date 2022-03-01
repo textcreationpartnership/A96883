@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>As you were: or A reducing (if possibly any) seduc't ones, to facing about, turning head, front against God) by the recrimination (so intended) upon Mr. J.G. (Pastor of the church in Colmanstreet) in point of fighting against God. By an unworthy auditor of the said (Iuditious-pious-divine) master Iohn Goodvvin.</title>
+            <author>Woodward, Ezekias, 1590-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96883</idno>
+            <idno type="STC">Wing W3480</idno>
+            <idno type="STC">Thomason E16_29</idno>
+            <idno type="STC">ESTC R4417</idno>
+            <idno type="EEBO-CITATION">99872674</idno>
+            <idno type="PROQUEST">99872674</idno>
+            <idno type="VID">154871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154871)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E16[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>As you were: or A reducing (if possibly any) seduc't ones, to facing about, turning head, front against God) by the recrimination (so intended) upon Mr. J.G. (Pastor of the church in Colmanstreet) in point of fighting against God. By an unworthy auditor of the said (Iuditious-pious-divine) master Iohn Goodvvin.</title>
+                  <author>Woodward, Ezekias, 1590-1675.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: P. P.</note>
+                  <note>Anonymous. By Hezekiah Woodward.</note>
+                  <note>Annotation on Thomason copy: "Suposed to be Hezikiah Woodward"; "Nouemb: 13: London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, John, 1594?-1665.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154871:1" rendition="simple:additions"/>
+            <p>AS YOV WERE: OR A reducing (if poſsibly any) ſeduc't ones, to Facing about, turning head, Front a<g ref="char:EOLhyphen"/>gainſt God) by the Recrimination (ſo intended) upon Mr. <hi>J. G.</hi> (P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtor of the Church in <hi>Colemanſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eet)</hi> in point of Fighting againſt GOD.</p>
+            <p>By an unworthy Auditor of the ſaid (Iuditious-pious-Divine) Maſter IOHN GOODVVIN.</p>
+            <p>
+               <add>Su<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oſed <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ezech: Woodward</add>
+            </p>
+            <p>
+               <add>nouemb: 13:</add> Printed in <add>London</add> the yeere. 1644.</p>
+            <pb facs="tcp:154871:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154871:2"/>
+            <head>AS YO<g ref="char:V">Ʋ</g> WERE.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>He Recriminator (ſo hee may bee nam'd, if a quality, diſpoſition, may denominate its ſubject) ſaith; That to build on what <hi>Gamaliel</hi> here ſpeakes is to build on a rotten and unſound Foundation. Reader, if the Councell had not done thus, how had the Apoſtles fared? Certainely bad enough, they had loſt their lives by the ſentence of the Court. But why ſaith the Recr: as he doth?</p>
+            <p n="1">1. He tells us that hee never heard ſo much good of <hi>Gamaliel</hi> except from Popiſh Interpreters. But (to be<g ref="char:EOLhyphen"/>leeve him herein, haply hee read none other on the place) may not others here ſo much from ſome other not Popiſh? Truly I have read but two, and they ſuf<g ref="char:EOLhyphen"/>ficient enough in ſuch a caſe, <hi>viz. Piſcator &amp; Baeza;</hi> The firſt ſaith that <hi>Gamaliel</hi> is here commended: the latter ſaies no whit leſſe, ſome what more then the former; according to him, <hi>Gamaliel</hi> was a Patron of Chriſts cauſe. Indeede the Miniſter ſpake not a word of any perſonall goodneſſe in the man, but of the au<g ref="char:EOLhyphen"/>thority of what was ſpoken by him. <hi>Balaam, Saul,</hi> and <hi>Caipha's</hi> may prophecy; But he tells us the beſt Inter<g ref="char:EOLhyphen"/>preters judge him irreligious, &amp;c. Who are they? Hee tells us not. Wherein <hi>Gamaliel</hi> thus? he ſhewes us not. But let them bee what they will, and this ſpeaker ſo
+<pb n="2" facs="tcp:154871:3"/> and ſo too, yet it prejudices not the Preachers Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p n="2">2. He ſaith <hi>Gamaliels</hi> ſcope was but the preſervati<g ref="char:EOLhyphen"/>on of himſelfe and the Councell (he might well have preferred the Councell in placing his words ſee verſes 35, 38, 39.) from the feare of <hi>Jewes</hi> and wrath of <hi>Ro<g ref="char:EOLhyphen"/>mans;</hi> Poore man! The firſt would be but at the Apo<g ref="char:EOLhyphen"/>ſtles apprehenſion (as of Chriſt, its ſaid they laid not their hands on him for feare of the people, not execu<g ref="char:EOLhyphen"/>tion (as it appeares in the example,) the latter they oft regarded not in ſuch a caſe (as appeares in the ſtories of the Goſpel and Acts. Eminently in that they oft would have killed <hi>Paul</hi> a Roman borne, <hi>(Acts</hi> 23. 27.) and I diſpute not how by their Law. <hi>Cap.</hi> 24. 6. The Recr: without ground runnes aſtray from the Text, to fetch a meaning which will not agree with this place. For the ſpeech of <hi>Gamaliel</hi> tends manifeſtly (to any not partiall, prejudic't) to with-holding from theſe [Apo<g ref="char:EOLhyphen"/>ſtles] and that reſpecting their Councell and workes, and al leaſt endeavoring to overthrow it, they be found [even] fighters againſt God, <hi>verſ.</hi> 35. 38. &amp;c.</p>
+            <p n="3">3. He ſaith, though there be ſome truth in the ſpeech, yet three great errors; namely, 1 He makes it uncertaine whether the Apoſtles Doctrine &amp; Miracles were from God or men? True, hee makes it if twere uncertaine; but to prove that he indeede held it ſo is more then this Annymus can prove; He might, and in all likely<g ref="char:EOLhyphen"/>hood did thus expreſſe himſelfe for feare, or policy (as many moſt thinke.) So did <hi>Huſhai</hi> ſtrangely for an ho<g ref="char:EOLhyphen"/>neſt heart, in that caſe of <hi>Davids,</hi> in his Councell to <hi>Abſolom,</hi> whereby he defeated that of <hi>Achitophel</hi> 2 <hi>Sam.</hi> 17. Were <hi>Gamaliel</hi> certaine of that hee ſpeakes of doubtfully, he exceeded a Polititian, was not a Neu<g ref="char:EOLhyphen"/>traliſt,
+<pb n="3" facs="tcp:154871:3"/> nor Adieophorit, Nullifidian, but believed) and ſo haply exceeded his judgers. But whether dubious or grounded herein, its evident he here fought for God. And that he ſaid, was good, (1) in it ſelfe; Therefore Godly learned <hi>Gualter</hi> ſaith it ſhould be to us as an Oracle to learne from, &amp;c. (which no evill ſpeech may be) I qote it becauſe the Miniſter doth (2) In the riſe alſo, pro<g ref="char:EOLhyphen"/>bably, Gods ſpirit was the motive as of <hi>Nicodemus</hi> his admonition. <hi>Joh.</hi> 7. 50. 51. Its the Interpreters inſtance. (3) In the meanes law<g ref="char:EOLhyphen"/>full. He a Doctor of the Law one of this chiefe Councell, Aſſem<g ref="char:EOLhyphen"/>bly gives this advice (and that ſeaſonably) at a conſultation (4) In the end its rendered ſo. It ſaves the lives of the Apoſtles, and that intendedly.</p>
+            <p n="2">2. He would himſelfe and have others judge this (or things to many ſeeming dubious, whether of God or no, uncertaine for the preſent) by the event. Truely God gives ſuch a Law; he would have Prophets whether falſe or true, tried thus, <hi>Deut.</hi> 18. laſt; and hereby this Councell were ſuch judged, and according to Gods rule and ordinance and leaſt found fighters againſt him. They yeeld to this Doctor of the Law, his advice of letting theſe (Apo<g ref="char:EOLhyphen"/>ſtles alone till God and themſelves clearely diſcover what now ap<g ref="char:EOLhyphen"/>peares dubious, uncertaine (which ſuppos'd uncertainty in <hi>Gama<g ref="char:EOLhyphen"/>liel</hi> is this mans firſt exception, error.</p>
+            <p n="3">3. According to his Councell Hereticks and Hereſie ſhould bee let alone in confidence, that if ſuch waies if not of God will come to nought. How now? doſt thou not underſtand, or doſt you be<hi>—Gamaliel; Gamaliel</hi> was (poſſibly, yea probably) as great an enemy of, adverſaty, deſtruction to Hereticks, Hereſie as this Recr: and would have acquited himſelfe as ſuch an one, and had the whole Councell alſo, like Jewes indeede rooted out, pluckt up theſe, if he had knowne them ſo to be and evidenced it to them. But the caſe ſtanding as it did, <hi>Gamaliel</hi> ſpeakes for the Apoſtles, and the Councell agree to him, not proceeding to their ſlaying. (According to this the Miniſter ſpake, that till wee are certaine that ſuch a Doctrine is Hereſie, we cannot without danger of be<g ref="char:EOLhyphen"/>ing found fighters againſt God, endeavour to overthrow it.)</p>
+            <p>Next hee would ſhew an odious compariſon; which is not ſo unleſſe every compariſon be odious. Its true, ſome Miniſters of the Congregationall way are of a very choiſe annointing. God hath given them a ſpirit of diſcerning [that truth] above ſome o<g ref="char:EOLhyphen"/>thers:
+<pb n="4" facs="tcp:154871:4"/> yet may thoſe ſome others be pillars and prime men in the Houſe and Temple of God, and haply willing to bee thought ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> too, as it ſeemes <hi>Paul</hi> was as well as <hi>Peter, Gal.</hi> 2. where <hi>Paul</hi> no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely compareth but preſerreth himſelfe unto <hi>Peter</hi> (ſo ſaith ear<g ref="char:EOLhyphen"/>ned King <hi>James</hi> in his Epiſtle to all <hi>Chriſtian Mornarch, pag.</hi> 48.) and that on purpoſe to heighten his owne eſtimation. Here the Recr: quotes diſcriptions and conceits (in the prime thickneſſe of his wit) that there was a contradictio<g ref="char:cmbAbbrStroke">̄</g> among them; but afterwards (reading good ingenuous lines, ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rpens, raiſeth, quickens the in<g ref="char:EOLhyphen"/>venti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t) he his on reconci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing them, (the apparition diſap<g ref="char:EOLhyphen"/>peares.) But why inſerts he the Section? Its likely wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n hee be<g ref="char:EOLhyphen"/>gan he intended not to dead ingenuouſly, to ſhew this: but now he is contented to doe it, haply in caution to prevent the Reply. For ſure enough there is no ſuch great art, &amp;c. in this Act for our rearning, his glorying.</p>
+            <p>Next he ſaith the Congregationall way doth hinder the Presby<g ref="char:EOLhyphen"/>teriall waies driving on. In truth the caſe is thus, the Presbyteriall drivers will rather in ſtate, ſtand and not goe on, then ſuffer the Congregationall way (the elder ſiſter) to goe a foote before them.</p>
+            <p>To the next quotation the Miniſter, ſpeake not what hee ſaid that way is like to prove to many, without ground: For if the roaring at a diſtance is ſo terible, afflicts ſo, what wil be the miſery of its perſence? probably—So as the dred, <hi>Pſal.</hi> 90. 11.</p>
+            <p>To the next quotation, if this Recr: be a Preacher I commend his reach he takes Text enough. If Mr. <hi>John Goodwins</hi> writing will not doe, hee turnes to the Apologiſts. (Reader, remember his <hi>Chimaera)</hi> who knit a knot with Mr. <hi>Goodwin,</hi> yet the ſayings abide ſingle and apart, unentangled. The Apologiſts deny not what Mr. <hi>Goodwin</hi> ſaies nor Mr. <hi>Goodwin</hi> what the Apologiſt writ, who add if the Magiſtrates power backe the ſentence of Non-communion, it will be as effectuall [as the Presbyteriall way is ſuppoſed to be.] Sir, here effectualnes is not ſimply aſcrib'd to the Presbyteriall way, nor to the Congregationall by this backing, where then is the tye?</p>
+            <p>To the next quotation, if he like not the anſwer he ſhould have well anſwered <hi>Naziaren,</hi> and not have crept away with a <hi>Tempora mutan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur, &amp;c.</hi> Well, God mend us, and ſo the times. Here next the Recr: falſely quotes the words. The firſt ſentence is this, why may we not thinke but that God may aſwell ſay, that there are too many learned and wiſe men in great Councell, for God to
+<pb n="5" facs="tcp:154871:4"/> reveale truth, or to give truth victory, againſt errour by §. 2. Hee quotes halfe a line out of a ſentence containing 15. lines Which in effect ſay, that where greater numbers of men accom<g ref="char:EOLhyphen"/>pliſht with grace, &amp;c. ſhall aſſemble, &amp;c. to argue &amp;c. onely with an intent to be helpers of the Saints, and not to exerciſe a domini<g ref="char:EOLhyphen"/>on over their faith. (2 <hi>Cor.</hi> 11. 24) they may expect a ſpeciall pre<g ref="char:EOLhyphen"/>ſence of God with them. The third is plainely this, that even in Councells, &amp;c. its' uſually ſeene that ſome one or few either of predominate parts or authority among them, ſway and ſteer, &amp;c. And is any the leaſt appearance of evill, in ſaying this? (1) Have not even thoſe admirers, worſhippers of Councels (the Papiſts I meane) ſpoken m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re and ill of Counſell? But herein comes not Mr. <hi>Goodwin</hi> neere the Arminians? &amp;c. A poore ſhift for a calum<g ref="char:EOLhyphen"/>niation. I finde the Arminians in their confeſſion <hi>(cap.</hi> 25. <hi>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sy<g ref="char:EOLhyphen"/>nodis)</hi> ſaying, that Synods ought to be convented by the example of the Apoſtles themſelves, <hi>Acts</hi> 15. And that they ought in the firſt place to drive Hereticks from the Churches, &amp;c. And that the Chriſtian Magiſtrates (after God and Chriſts cheif) authority ought to intervene, and ſay not all Presbyterians the ſame? come not they neere the Arminians? Thus it is to argue like the Recri<g ref="char:EOLhyphen"/>minator. 2. Have not our worthy writers againſt Papiſts ſaid as much as Mr. <hi>Goodwin</hi> (in this point) and ſeven times over and once more: In perticu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iar <hi>Whitaker</hi> whom he quotes? I will inſtance in places if cauſe</p>
+            <p>Next he would claſpe the hands of the Apologiſts and Mr. <hi>Good<g ref="char:EOLhyphen"/>win,</hi> and make us beleeve they give a blow to Parliaments power, viz. coercive in matters of Religion, (hee ſhould like a man have manifeſted what that power is, and that God hath given it, &amp;c. And that theſe give leſſe to the Magiſtrate than the principles of the Presbyterians. This would have abundantly rendred him ac<g ref="char:EOLhyphen"/>ceptable to the Congregationall men. If the man emulate ſuch an honour, let him appeare in the Cauſe.</p>
+            <p>Next hee would have Mr. <hi>Goodwin</hi> give his firſt borne for his tranſgreſſion what tranſgreſſion? Forſooth, hee againſt his Do<g ref="char:EOLhyphen"/>ctrine lifts up a thought, &amp;c. againſt the Presbyteriall way which claimeth origination and diſcent from Heaven, and that without ſecurity upon ſecurity, &amp;c. How knowes he that? Did Mr. <hi>Goodwin</hi> tell him or any other ſo, or hath hee faculty without his acknow<g ref="char:EOLhyphen"/>ledging, to know his evidence? Surely neither, but we bee—Mr.
+<pb n="6" facs="tcp:154871:5"/> 
+               <hi>Goodwin.</hi> Well then, ſuppoſe Mr. <hi>Goodwin</hi> hath ſuch a demonſtra<g ref="char:EOLhyphen"/>tion &amp;c. yet may not another, or any without ſo much proofe, appeare in conteſtation againſt this or that Doctrine as Hereſie? &amp;c. Alas. The whole booke anſwers this objection, yet the — askes it. But yet (ſaith this never c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntented man) falls not this up<g ref="char:EOLhyphen"/>on the excommunication in the congregational way ſuch evi<g ref="char:EOLunhyphen"/>dence, proofe, demonſtration, ſecurity, a heritick may, ought to be after orderly proceeding, rejected, caſt out of the lines of the Churches Communication, &amp;c.</p>
+            <closer>
+               <dateline>From my Counting-houſe. <date>October 24.</date>
+               </dateline>
+               <signed>P. P.</signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>REader,</salute>
+               </opener>
+               <p>The charge of the blood of our men, &amp;c. loſt at the defeate in the Weſt, is a heavie charge: it hath and will make the beares ſpeake when the murther of Jeſus, was laid on the heads of the Jewes, they are cut to the heart, and take Councell to ſlay the Apoſtles, verſ. 23. of this Chap. and Chap. 7. 54. they are againe cut to the heart at this, and gna<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> on <hi>Steven</hi> with their teeth, and yet truly there it lies.<hi>vide</hi> cap. 5. 28. Now I remember what Mr. <hi>Peeters</hi> (that faithfull coun<g ref="char:EOLhyphen"/>tryman and laborious for the States good) ſaid but th' other day, (a Tueſday the faſt day for our Armies.) I am confident, it was that (he had ſpoken againſt ſcratching, afflcting our brethren) gave us the blow in the Weſt. Vpon which Mr. <hi>Goodwin</hi> preacht theſe Sermons.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
